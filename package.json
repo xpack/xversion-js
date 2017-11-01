@@ -1,0 +1,27 @@
+{
+  "name": "xversion",
+  "version": "0.1.0",
+  "description": "The xPack version generator",
+  "main": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xpack/xversion-js.git"
+  },
+  "keywords": [
+    "xpack",
+    "version"
+  ],
+  "author": {
+    "name": "Liviu Ionescu",
+    "email": "ilg@livius.net",
+    "url": "http://liviusdotnet.wordpress.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xpack/xversion-js/issues"
+  },
+  "homepage": "https://github.com/xpack/xversion-js"
+}
